@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1784187502",
+    "project_id": "talkify-43ce8",
+    "storage_bucket": "talkify-43ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1784187502:android:309be4f294c6d959cfb47f",
+        "android_client_info": {
+          "package_name": "com.android.talkify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1784187502-71ohvgbd08o9nctp60tivnt150v5a5mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Tf46VZdn55Bf1RcUOedDyp7Pe9PgMzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1784187502-71ohvgbd08o9nctp60tivnt150v5a5mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
